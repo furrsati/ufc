@@ -16,12 +16,12 @@
 | 1 | Ilia Topuria vs. Justin Gaethje | LW title (5R) | **Ilia Topuria wins** | 67% |
 | 2 | Alex Pereira vs. Ciryl Gane | Int. HW title (5R) | **Does NOT go the distance** | 55% |
 | 3 | Sean O'Malley vs. Aiemann Zahabi | BW (3R) | **Sean O'Malley wins** | 72% |
-| 4 | Josh Hokit vs. Derrick Lewis | HW (3R) | **Josh Hokit wins** | 60% |
+| 4 | Josh Hokit vs. Derrick Lewis | HW (3R) | **Does NOT go the distance** (lean Hokit) | 67% |
 | 5 | Mauricio Ruffy vs. Michael Chandler | LW (3R) | **Mauricio Ruffy wins** | 63% |
 | 6 | Bo Nickal vs. Kyle Daukaus | MW (3R) | **Bo Nickal wins** | 65% |
 | 7 | Diego Lopes vs. Steve Garcia | FW (3R) | **Diego Lopes wins** | 55% |
 
-**Confidence ranking (strongest → coin-flip):** O'Malley (72) → Topuria (67) → Nickal (65) → Ruffy (63) → Hokit (60) → Pereira/Gane no-distance (55) ≈ Lopes (55).
+**Confidence ranking (strongest → coin-flip):** O'Malley (72) → Hokit–Lewis no-distance (67) ≈ Topuria (67) → Nickal (65) → Ruffy (63) → Pereira/Gane no-distance (55) ≈ Lopes (55).
 
 > **Two verification passes applied.** These numbers reflect a second, source-widening + fight-week (June 10–14) verification pass across alternate stat databases, fight analysts, and foreign-language press. It *corrected several of my own first-pass claims* (flagged inline below): Topuria's personal/camp/heat "edges" were overstated; O'Malley's lifestyle-reset is misdated; the Nickal–de Ridder "rhyme" was overstated; Pereira's heavyweight cardio/size problems are bigger than first credited. **Confirmed card running order (single 7-bout main card, no prelims):** 1) Lopes–Garcia, 2) Nickal–Daukaus, 3) Ruffy–Chandler, 4) Hokit–Lewis, 5) O'Malley–Zahabi, 6) Pereira–Gane, 7) Topuria–Gaethje.
 
@@ -98,8 +98,8 @@ This is the card's true coin-flip on *who wins*: **Pereira ~50% · Gane ~48% · 
 - **Cons:** 41, declining chin, awful gas tank, beatable by wrestling/pressure — exactly Hokit's game.
 
 ### Verdict
-**Hokit wins ~61%** · Lewis wins ~34% · doesn't-go-distance ~62% · goes-distance ~38% · draw ~1%.
-**PICK: Josh Hokit wins (any method) — 61%.** Youth, cardio, and a wrestling style tailor-made to exploit Lewis's two biggest holes (gas tank + takedown defense) outweigh Lewis's punchers' chance. "Doesn't go the distance" is nearly as likely (~62%) and a fair alternative, but it pays on a Lewis KO I rate clearly less probable. **Biggest risk (and it's a real one at heavyweight):** Hokit gets hit on a wrestling entry early and Lewis lands the one bomb. Lewis is the single most dangerous "upset" threat on the card.
+**Does NOT go the distance ~67%** · Hokit wins ~60% · Lewis wins ~35% · goes-distance ~33% · draw ~1%.
+**PICK: Does NOT go the distance — 67% (revised from "Hokit wins"). [Corrected pick.]** Breaking it down: Lewis wins ~35% and ~95% of his wins are finishes (≈33% chance of a Lewis finish); Hokit wins ~60%, and against a 41-year-old who fades and *covers up rather than fires back when hurt*, a Hokit ground-and-pound/TKO is very live (≈34% Hokit finish, ≈26% Hokit grind-to-decision). That puts the finish at ~67% — **higher than "Hokit wins" (60%) AND more robust**, because it cashes whether Lewis lands the bomb OR Hokit finishes, instead of losing to the Lewis KO. **Directional lean: Hokit** (youth, cardio, wrestling vs. ~52% TDD and a bad gas tank). **The only path to the bell** is the cautious-Hokit-wrestles-safe-to-a-decision scenario (he just went 15 min vs. Blaydes and has vowed not to brawl) — that ~26–33% is the live "goes the distance" case and the reason this isn't 75%+. **Biggest risk to the pick:** exactly that — Hokit plays it ultra-safe on top and a durable-enough Lewis survives to the final bell.
 
 ---
 
@@ -161,14 +161,14 @@ This is the card's true coin-flip on *who wins*: **Pereira ~50% · Gane ~48% · 
 
 - **Safest legs (build around these):** O'Malley, Topuria, Nickal. Each has a clean stylistic blueprint and a neutralized opponent weakness.
 - **Most volatile legs (treat with caution):** Lopes–Garcia and the entire Pereira–Gane *winner* market. The heavyweight legs (Hokit–Lewis, Pereira–Gane) carry the highest one-shot variance.
-- **If you want a single "fight ends inside the distance" lean beyond Fight 2:** Ruffy–Chandler (~64%) and Hokit–Lewis (~62%) are the next most finish-likely bouts.
+- **"Fight ends inside the distance" is now a primary pick in TWO spots:** Hokit–Lewis (~67%) and Pereira–Gane (~55%). Ruffy–Chandler (~64% to finish) is the next most finish-likely bout if you want a third.
 - **The biggest upset threat on the card:** Derrick Lewis's punchers' chance, followed by Ciryl Gane out-moving Pereira for 25 minutes.
 
 ### Final pick sheet
 1. **Topuria** def. Gaethje — 67%
 2. **Pereira vs. Gane — does NOT go the distance** — 55% (winner is a coin flip; Gane very live)
 3. **O'Malley** def. Zahabi — 72%
-4. **Hokit** def. Lewis — 60%
+4. **Hokit–Lewis — does NOT go the distance** — 67% (directional lean Hokit)
 5. **Ruffy** def. Chandler — 63%
 6. **Nickal** def. Daukaus — 65%
 7. **Lopes** def. Garcia — 55%
