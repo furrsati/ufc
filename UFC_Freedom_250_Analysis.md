@@ -13,15 +13,15 @@
 
 | # | Fight | Division | **THE PICK** | Confidence |
 |---|-------|----------|--------------|-----------|
-| 1 | Ilia Topuria vs. Justin Gaethje | LW title (5R) | **Ilia Topuria wins** | 69% |
+| 1 | Ilia Topuria vs. Justin Gaethje | LW title (5R) | **Ilia Topuria wins** | 67% |
 | 2 | Alex Pereira vs. Ciryl Gane | Int. HW title (5R) | **Does NOT go the distance** | 60% |
 | 3 | Sean O'Malley vs. Aiemann Zahabi | BW (3R) | **Sean O'Malley wins** | 72% |
-| 4 | Josh Hokit vs. Derrick Lewis | HW (3R) | **Josh Hokit wins** | 61% |
-| 5 | Mauricio Ruffy vs. Michael Chandler | LW (3R) | **Mauricio Ruffy wins** | 61% |
-| 6 | Bo Nickal vs. Kyle Daukaus | MW (3R) | **Bo Nickal wins** | 68% |
-| 7 | Diego Lopes vs. Steve Garcia | FW (3R) | **Diego Lopes wins** | 57% |
+| 4 | Josh Hokit vs. Derrick Lewis | HW (3R) | **Josh Hokit wins** | 58% |
+| 5 | Mauricio Ruffy vs. Michael Chandler | LW (3R) | **Mauricio Ruffy wins** | 60% |
+| 6 | Bo Nickal vs. Kyle Daukaus | MW (3R) | **Bo Nickal wins** | 62% |
+| 7 | Diego Lopes vs. Steve Garcia | FW (3R) | **Diego Lopes wins** | 55% |
 
-**Confidence ranking (strongest → coin-flip):** O'Malley (72) → Topuria (69) → Nickal (68) → Hokit (61) ≈ Ruffy (61) → Pereira/Gane no-distance (60) → Lopes (57).
+**Confidence ranking (strongest → coin-flip):** O'Malley (72) → Topuria (67) → Nickal (62) → Ruffy (60) ≈ Pereira/Gane no-distance (60) → Hokit (58) → Lopes (55). *(Confidences revised down on the "chalk" legs after the strict out-of-cage pass below — see the Edge Factors section.)*
 
 ---
 
@@ -132,8 +132,8 @@ This is the card's true coin-flip on *who wins*: **Pereira ~49% · Gane ~41% · 
 - **Cons:** Porous striking defense (43%), absorbs more than he lands, has been quickly KO'd by power strikers (Dolidze, Anders); Nickal's wrestling is a tier above.
 
 ### Verdict
-**Nickal wins ~68%** · Daukaus wins ~28% · doesn't-go-distance ~58% · goes-distance ~41% · draw ~1%.
-**PICK: Bo Nickal wins (any method) — 68%.** His wrestling and athleticism should let him control position and win by ground-and-pound TKO, submission, or decision. **Biggest risk:** Daukaus catches a Nickal shot/scramble in a D'Arce, or tags the exposed-when-hurt Nickal early — the most live submission threat Nickal has faced.
+**Nickal wins ~62%** · Daukaus wins ~33% · doesn't-go-distance ~65% · goes-distance ~34% · draw ~1%.
+**PICK: Bo Nickal wins (any method) — 62% (revised down from 68%).** His wrestling and athleticism should still let him control position and win by ground-and-pound TKO, submission, or decision. But here is the under-weighted, non-consensus point: **Nickal's only loss (Reinier de Ridder) came against a long, scramble-heavy submission grappler with body striking — and Daukaus's skill set rhymes with that exact archetype** (D'Arce-choke specialist, +1" reach, dangerous off his back, two straight first-round UFC finishes, new-father "loose veteran" psychology). Combined with Nickal's proven body-shot vulnerability and the hype-pressure he carries on this stage, this is a coin-flip-tier leg, not a safe one. **"Does NOT go the distance" (~65%) is the single highest-probability call** — both men finish *and* both have a clear way to be finished — and is the better play if you don't need to name the winner. I keep "Nickal wins" as the directional pick only because his control-to-decision path (à la Paul Craig) keeps "no distance" from dominating it. **Biggest risk:** Daukaus catches a careless Nickal shot/scramble in a D'Arce, or buckles the exposed-when-hurt Nickal — the most dangerous submission threat Nickal has faced since the man who already beat him.
 
 ---
 
@@ -163,12 +163,39 @@ This is the card's true coin-flip on *who wins*: **Pereira ~49% · Gane ~41% · 
 - **The biggest upset threat on the card:** Derrick Lewis's punchers' chance, followed by Ciryl Gane out-moving Pereira for 25 minutes.
 
 ### Final pick sheet
-1. **Topuria** def. Gaethje — 69%
+1. **Topuria** def. Gaethje — 67%
 2. **Pereira vs. Gane — does NOT go the distance** — 60% (lean Pereira to win)
 3. **O'Malley** def. Zahabi — 72%
-4. **Hokit** def. Lewis — 61%
-5. **Ruffy** def. Chandler — 61%
-6. **Nickal** def. Daukaus — 68%
-7. **Lopes** def. Garcia — 57%
+4. **Hokit** def. Lewis — 58%
+5. **Ruffy** def. Chandler — 60%
+6. **Nickal** def. Daukaus — 62%
+7. **Lopes** def. Garcia — 55%
 
-*Compiled June 14, 2026 from pre-fight information only. Odds and third-party predictions were deliberately excluded; everything here derives from the fighters' own records, attributes, conditions, and circumstances.*
+---
+
+## OUT-OF-THE-BOX EDGE FACTORS — THE STRICT READ (what the consensus misses)
+
+This is the layer that separates a precise prediction from a popular one: the camp politics, injuries, psychology, personal lives, and the unprecedented venue. Each point below is weighted for what it actually does to the fight.
+
+### Card-wide environmental edges (affect everyone, weighted by slot)
+- **The venue is a weapon and a wildcard.** First-ever outdoor White House South Lawn card, evening, ~80°F→mid-60s with humidity, ~30–40% storm chance and a **lightning-evacuation protocol** that could cause mid-card delays. Delays wreck warm-up timing and favor calm veterans over tightly-wound fighters. Heat punishes the cardio-suspect — most relevant to the heavier/earlier bouts.
+- **The Greg Jackson absence is a TWO-FIGHT story almost nobody is pricing in.** Jackson-Wink's Greg Jackson is **NOT cornering either Josh Hokit or Steve Garcia** (personal/family reasons). Losing your lead strategist for the biggest fight of your life — against, respectively, the hardest puncher in UFC history and the best opponent you've ever faced — is a concrete, compounding negative for *both* underdogs-in-spirit. This is my single favorite under-weighted edge on the card.
+- **Partisan, political, once-in-history crowd + Trump's 80th birthday.** Showmen and invited favorites feed on it (Topuria, O'Malley, Lewis — personally requested by Trump). The raw/younger fighters carrying hype-pressure (Hokit, Nickal) are the ones it can tighten.
+
+### Fight-by-fight contrarian points
+1. **Topuria–Gaethje — the quick KO is the trap bet.** Topuria publicly predicted a ~2-minute finish; the *strict* read says the opposite is more likely. He's coming off his **longest layoff (~12 months) spent inside a brutal personal saga** (breakup/custody, an alleged extortion/false-accusation ordeal) AND he **left the Climent Club after 13 years** for his own small team — losing camp infrastructure and accountability right before the biggest night of his life. Meanwhile **Gaethje's camp ran an "extreme" sauna heat-adaptation protocol specifically for these outdoor conditions** — a real, specific edge in humidity over five rounds, where Topuria's deep-water cardio is essentially unproven (one career 5-rounder). **Net:** Topuria still wins on talent, youth, clean power and the shared-opponent math — but it is more likely to be *competitive and long* (decision or late finish) than the early blowout people expect, and Gaethje's genuine live window is rounds 4–5 with leg kicks + heat. Confidence trimmed 69→67.
+2. **Pereira–Gane — Gane is the disrespected dog, and the heat is on Poatan.** Everyone is buying the left hook. The overlooked truth: **Pereira added ~46 lbs of fresh mass at 38 and has zero proven 5-round heavyweight cardio**, and an outdoor humid night is the worst possible environment for a freshly-bulked body to gas. Gane is the *natural* big man, elite mover, +2" reach, great gas tank, and **imported Pereira's only kickboxing conqueror (Artem Vakhitov) plus a current Glory champ to mirror him**. The fight is genuinely bimodal: **early Pereira KO, or a late Gane decision/finish as Poatan tires.** That's exactly why "does NOT go the distance" is the high-confidence call — but if you must name a winner, **Gane is far more live than the consensus admits.**
+3. **O'Malley–Zahabi — bolder than "easy decision": a real finish is on the table.** The consensus sees a points win. The sharp angle: **O'Malley has reset his life** (cut social media, gaming, marijuana; "healthy family life") after a near-retirement scare — a re-focused, motivated star. Zahabi must walk *forward into O'Malley's counter right hand* with **no power to earn respect and no wrestling threat**, and at 38 his chin has shown cracks (rocked by Vera and Aldo recently). This is the rare matchup where O'Malley's lone weakness (wrestling) is fully removed. Highest-confidence leg on the card, with live finish upside.
+4. **Hokit–Lewis — the card's #1 upset spot (and I trimmed Hokit to 58%).** The chalk "young athlete drowns the old man" ignores three stacked negatives: **(a) no Greg Jackson in the corner**; **(b) Winkeljohn is publicly nervous Hokit will try to "entertain"** — i.e., stand and bang with the all-time KO leader instead of wrestling; **(c) a ~2-month turnaround after a 354-strike war in which he was wobbled repeatedly**, with a 44% striking defense and an untested chin. Add the weigh-in circus (vomiting "in character") = emotional, reckless energy. Hokit *should* win by wrestling and cardio — but the single most likely shocker of the night is **Derrick Lewis landing one bomb early** on a hyped, under-coached, hittable prospect who likes to brawl. This is a coin-flip dressed as a layup.
+5. **Ruffy–Chandler — the upset key is Chandler's ego, not his odds.** Chandler's *only* path is wrestling — and it's the exact blueprint (grappling pressure) that **already finished Ruffy via submission (Saint-Denis)**; Chandler is a far better wrestler than Saint-Denis. The reason I still pick Ruffy: **Chandler historically refuses to wrestle**, preferring wars (pride/legacy), which walks him onto Ruffy's power and a chin that already owns 5 KO losses at age 40. Also monitor **Ruffy's camp friction with Fighting Nerds** (cornering instability around his Volkanovski-camp alignment). If Chandler fights his age and wrestles, he's live; if he brawls (his nature), Ruffy KO.
+6. **Nickal–Daukaus — see revised verdict above:** the de Ridder template makes Daukaus the most dangerous "rhyme" opponent for Nickal's one proven weakness; coin-flip-tier, Nickal trimmed to 62%.
+7. **Lopes–Garcia — Lopes is more compromised than his ranking suggests.** Hidden physical stressors: **Lopes reportedly broke BOTH feet in his last fight (~4.5 months ago), took this on short notice (found out from TV), and weighed in TWICE on fight week** (146 for Garcia + 154 as the lightweight main-event backup) — a bizarre double weight/rehydration cycle and split focus that can quietly sap pressure and cardio. On the other side, **Garcia is missing Greg Jackson AND publicly fixated on the outdoor conditions** (a mental yellow flag), and has never faced anyone near Lopes's level. Lopes's experience, grappling and never-finished-in-the-UFC durability still edge it — but if Garcia lands his left hand early, this is a very live upset. Lowest-confidence leg (55%).
+
+### The boldest non-consensus calls to take away
+- **Topuria wins but does NOT get his predicted quick KO** — expect competitive/late, possibly a decision.
+- **Gane is a live underdog**, not a stepping stone — the heat and his cardio/movement are real.
+- **Hokit–Lewis is the most likely upset on the card** (Lewis KO), driven by Hokit's missing coach + reckless tendency.
+- **O'Malley could *finish* Zahabi**, not just out-point him.
+- **Nickal is a coin flip, not a showcase** — Daukaus is the de Ridder archetype.
+
+*Compiled June 14, 2026 from pre-fight information only. Odds and third-party predictions were deliberately excluded; everything here derives from the fighters' own records, attributes, injuries, camps, conditions, and personal circumstances.*
