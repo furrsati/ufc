@@ -26,4 +26,4 @@ Each file closes with a summary table of all picks, a count of how many picks fa
 
 | Event | Date | Picks correct | Method correct | Notes |
 |-------|------|---------------|----------------|-------|
-| [UFC 330: Makhachev vs. Machado Garry](predictions/ufc-330.md) | 2026-08-15 | — / 12 | — / 12 | Pending |
+| [UFC 330: Makhachev vs. Machado Garry](predictions/ufc-330.md) | 2026-08-15 | 3 / 6 | 0 / 6 | 6 bouts pending — final grading after the main card |
